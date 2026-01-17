@@ -1,6 +1,5 @@
 package LAB3;
 
-import java.security.PublicKey;
 import java.util.Scanner;
 
 class plastic2d {
